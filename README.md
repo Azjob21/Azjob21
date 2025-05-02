@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Azjob21
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 👀 interested in programming
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...(@azibaayoub)
 
