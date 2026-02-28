@@ -20,7 +20,7 @@
 
 I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work across the full stack — from training ML models and building APIs, to designing UIs in Figma and making games in Love2D. I participate actively in hackathons and love turning ideas into shipped products.
 
-- 🥇 **1st place @ MobAI'26** — AI demand forecasting + warehouse optimization
+
 - 🤖 Focused on **AI/ML**, **backend development**, and **MLOps**
 - 🎮 Indie game developer using **Lua + Love2D** with pixel art in **Aseprite**
 - 🎨 UI/UX designer with **Figma**
