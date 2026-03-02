@@ -20,7 +20,6 @@
 
 I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work across the full stack — from training ML models and building APIs, to designing UIs in Figma and making games in Love2D. I participate actively in hackathons and love turning ideas into shipped products.
 
-
 - 🤖 Focused on **AI/ML**, **backend development**, and **MLOps**
 - 🎮 Indie game developer using **Lua + Love2D** with pixel art in **Aseprite**
 - 🎨 UI/UX designer with **Figma**
@@ -32,6 +31,7 @@ I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work
 
 **AI & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C14?style=flat)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-0068C8?style=flat)
@@ -62,6 +62,13 @@ I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work
 > **1st place** at MobAI'26 hackathon. Full AI system forecasting demand for 1,129 SKUs and optimizing warehouse storage + picking routes. Built with XGBoost, Prophet, and FastAPI. Deployed on Azure with 12 API endpoints.
 
 `Python` `XGBoost` `Prophet` `FastAPI` `Azure` `MLOps`
+
+---
+
+### 💧 [Water Segmentation — Hard Boundary Detection](https://github.com/Azjob21/water-segmentation)
+> Kaggle competition entry achieving **Val Dice 0.9814** and **Val IoU 0.9641** on a boundary-heavy segmentation task. The competition scores 80% on boundary precision — making standard segmentation approaches insufficient. Built a custom boundary-aware loss (BCE + Dice + Gradient + Sobel), trained a U-Net with EfficientNet-B3 encoder at 512×640px, and applied TTA + threshold optimization using the actual competition metric. Converged in ~1 hour on a T4 GPU.
+
+`PyTorch` `U-Net` `EfficientNet` `Computer Vision` `Kaggle`
 
 ---
 
