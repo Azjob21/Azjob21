@@ -86,7 +86,7 @@ I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work
 
 ---
 
-## 📊 GitHub Stats
+## 🩻 [Masked-xRAY-CHALLENGE](https://github.com/Azjob21/masked-xray-challenge)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azjob21&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
