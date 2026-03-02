@@ -87,7 +87,8 @@ I'm a Computer Science student at ESI-SBA with a broad builder's mindset. I work
 ---
 
 ## 🩻 [Masked-xRAY-CHALLENGE](https://github.com/Azjob21/masked-xray-challenge)
-
+>🥈Binary X-ray classification using two independent deep learning strategies, both trained on the same dataset and submitted to the Kaggle leaderboard
+this one ranked second in the datathoon .
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Azjob21&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azjob21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
