@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ayoub 👋</h1>
+<h1 align="center">Hey, I'm Ayoub </h1>
 
 <p align="center">
   <b>CS Student · AI & Backend Developer · Game Dev · UI/UX Designer</b><br/>
